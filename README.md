@@ -1,5 +1,5 @@
 <h1> C Matrix Library </h1>
-<h4> Create, Print and Free any Matrix </h1>
+<h3> Create, Print and Free any Matrix </h3>
 
 *This library works with dynamic memory, you can
 create, print any matrix and  you don't need to worry
@@ -19,4 +19,4 @@ about free allocated memory*
 4. RUN:
  ``` ./exe ```
 
-<h6> Created By Oliver ALR, No LICENSE </h6>
+<h6> Created By Oliver ALR, NO LICENSE </h6>

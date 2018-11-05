@@ -16,7 +16,7 @@ about free allocated memory*
 3.create the code and library executable: 
 ```gcc -o exe main.o matrix.o ```
 
-4. RUN 
+4. RUN:
  ``` ./exe ```
 
-<h6> Created By Oliver ALR, No lICENSE </h6>
+<h6> Created By Oliver ALR, No LICENSE </h6>
